@@ -9,4 +9,13 @@
 # cd $brainstormr
 #
 
-export JAVA_HOME=/Applications/Android\ Studio.app/Contents/jre/Contents/Home
+JAVA_11=/Applications/Android\ Studio.app/Contents/jre/Contents/Home
+JAVA_8=/Users/christianbunk/Library/Java/JavaVirtualMachines/liberica-1.8.0_332
+
+export JAVA_HOME=$JAVA_11
+
+ANDROID_SDK_ROOT=/Users/christianbunk/Library/Android/sdk
+export ANDROID_SDK_ROOT
+
+HOMEBREW=/opt/homebrew/bin
+export PATH=$PATH:$HOMEBREW

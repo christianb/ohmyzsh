@@ -19,3 +19,6 @@ export ANDROID_SDK_ROOT
 
 HOMEBREW=/opt/homebrew/bin
 export PATH=$PATH:$HOMEBREW
+
+# ADB
+export PATH=$PATH:/Users/christianbunk/Library/Android/sdk/platform-tools/

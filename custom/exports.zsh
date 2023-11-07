@@ -9,7 +9,7 @@
 # cd $brainstormr
 #
 
-JAVA_11=/Applications/Android\ Studio.app/Contents/jre/Contents/Home
+JAVA_11=/Applications/Android\ Studio.app/Contents/jbr/Contents/Home
 JAVA_8=/Users/christianbunk/Library/Java/JavaVirtualMachines/liberica-1.8.0_332
 
 export JAVA_HOME=$JAVA_11
